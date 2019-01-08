@@ -1,2 +1,2 @@
 # node-test
-IO 파일 태스트
+Node.js 서버 구축 태스트 입니다.
