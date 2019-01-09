@@ -1,0 +1,24 @@
+{
+  "name": "node",
+  "version": "0.0.1",
+  "description": "Node.js 서버 구축 태스트 입니다.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yesmorin1/test-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yesmorin1/test-server/issues"
+  },
+  "homepage": "https://github.com/yesmorin1/test-server#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "http": "0.0.0",
+    "serve-static": "^1.13.2"
+  }
+}
